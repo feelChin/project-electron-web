@@ -1,0 +1,170 @@
+._pageFixed_1xjhn_1 {
+  position: absolute;
+  right: 5%;
+  top: 13%;
+  background: var(--white);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  display: flex;
+  flex-direction: column;
+  padding: 5px 10px;
+  font-size: 12px;
+  border-radius: 5px;
+  color: var(--black);
+}
+._pageFixed_1xjhn_1 ._navItem_1xjhn_14 {
+  cursor: pointer;
+}
+._pageFixed_1xjhn_1 ._navItem_1xjhn_14.active {
+  color: red;
+}
+._pageFixed_1xjhn_1 ._navItem_1xjhn_14 ._head_1xjhn_20 {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  height: 18px;
+}
+._page_1xjhn_1 {
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 33px;
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(1) {
+  height: 130vh;
+  background: rgb(38, 246, 111);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(2) {
+  height: 114vh;
+  background: rgb(178, 133, 235);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(3) {
+  height: 82vh;
+  background: rgb(153, 249, 120);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(4) {
+  height: 86vh;
+  background: rgb(140, 122, 145);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(5) {
+  height: 84vh;
+  background: rgb(64, 167, 142);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(6) {
+  height: 138vh;
+  background: rgb(128, 31, 28);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(7) {
+  height: 141vh;
+  background: rgb(182, 146, 62);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(8) {
+  height: 85vh;
+  background: rgb(198, 56, 83);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(9) {
+  height: 146vh;
+  background: rgb(3, 79, 92);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(10) {
+  height: 89vh;
+  background: rgb(52, 82, 186);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(11) {
+  height: 65vh;
+  background: rgb(141, 43, 63);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(12) {
+  height: 82vh;
+  background: rgb(235, 26, 72);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(13) {
+  height: 90vh;
+  background: rgb(110, 16, 190);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(14) {
+  height: 150vh;
+  background: rgb(58, 68, 99);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(15) {
+  height: 95vh;
+  background: rgb(92, 122, 238);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(16) {
+  height: 66vh;
+  background: rgb(101, 250, 151);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(17) {
+  height: 101vh;
+  background: rgb(11, 118, 60);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(18) {
+  height: 74vh;
+  background: rgb(252, 153, 29);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(19) {
+  height: 70vh;
+  background: rgb(235, 29, 45);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(20) {
+  height: 119vh;
+  background: rgb(181, 223, 215);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(21) {
+  height: 62vh;
+  background: rgb(227, 149, 205);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(22) {
+  height: 79vh;
+  background: rgb(67, 247, 218);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(23) {
+  height: 67vh;
+  background: rgb(199, 53, 104);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(24) {
+  height: 112vh;
+  background: rgb(170, 57, 1);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(25) {
+  height: 133vh;
+  background: rgb(238, 158, 53);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(26) {
+  height: 158vh;
+  background: rgb(92, 1, 158);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(27) {
+  height: 150vh;
+  background: rgb(248, 149, 151);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(28) {
+  height: 157vh;
+  background: rgb(33, 221, 211);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(29) {
+  height: 70vh;
+  background: rgb(103, 137, 50);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(30) {
+  height: 106vh;
+  background: rgb(246, 47, 62);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(31) {
+  height: 65vh;
+  background: rgb(248, 184, 88);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(32) {
+  height: 77vh;
+  background: rgb(41, 19, 86);
+}
+._page_1xjhn_1 ._pageItem_1xjhn_32:nth-child(33) {
+  height: 133vh;
+  background: rgb(206, 81, 48);
+}
